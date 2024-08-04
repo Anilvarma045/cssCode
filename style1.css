@@ -1,0 +1,8 @@
+div{
+    background-color: bisque;
+    display: inline;       /* // it will display with in line */
+}
+
+button{
+    display: block;
+}
